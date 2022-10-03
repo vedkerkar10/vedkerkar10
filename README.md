@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Ved Kerkar </br> 
 </h1>
 <p align="center">
-<a href="https://twitter.com/vedkerkar10"><img alt="" src="https://img.shields.io/badge/@NIKHIL_RAO-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="[https://twitter.com/vedkerkar10]"><img alt="" src="https://img.shields.io/badge/@VED_KERKAR-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/nikhil-rao-90b337221/"><img alt="" src="https://img.shields.io/badge/@Nikhil_Rao-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 <a href="https://www.instagram.com/ohmygoditsnikhil/?hl=en"><img alt="" src="https://img.shields.io/badge/ohmygoditsnikhil-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 </p>
